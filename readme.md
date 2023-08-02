@@ -1,4 +1,6 @@
 # 프로젝트 소개
+![배틀시티](https://github.com/ilovegalio/java_tankgame/assets/77008882/e2a671d4-e89a-47c3-a07c-ece9ad0e721e)
+
 Java 탱크 게임 (배틀 시티 탱크 클론)
 패미콤에서 만든 추억의 오락실 탱크게임인 'Battle City Tank'의 클론코딩 프로젝트 입니다. 이 프로젝트 에서는 Java를 사용하여 간단하고 즐거운 탱크 전투 경험을 제공합니다.
 
